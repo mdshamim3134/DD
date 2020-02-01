@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Sep 11 11:16:55 EDT 2019
+http\://download.eclipse.org/recommenders/models/photon/.error=Could not transfer artifact jre\:jre\:zip\:ovrm\:1.0.0-SNAPSHOT from/to models (http\://download.eclipse.org/recommenders/models/photon/)\: Connect to download.eclipse.org\:80 timed out
+@default-models-http\://download.eclipse.org/recommenders/models/photon/.lastUpdated=1568215015320
