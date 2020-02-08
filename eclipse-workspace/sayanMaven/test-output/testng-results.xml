@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-02T18:42:57Z" name="Default suite" finished-at="2019-01-02T18:42:57Z" duration-ms="31">
+    <groups>
+    </groups>
+    <test started-at="2019-01-02T18:42:57Z" name="Default test" finished-at="2019-01-02T18:42:57Z" duration-ms="31">
+      <class name="abc.D1">
+        <test-method signature="clickOnShirt()[pri:0, instance:abc.D1@707194ba]" started-at="2019-01-02T18:42:57Z" name="clickOnShirt" finished-at="2019-01-02T18:42:57Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnShirt -->
+      </class> <!-- abc.D1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
