@@ -13,6 +13,7 @@ public class Basic {
 			
 		}
 		System.out.println(fact);
+		System.out.println(x);
 	}
 	
 	public void prime() {
