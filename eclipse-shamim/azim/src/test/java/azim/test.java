@@ -10,6 +10,7 @@ public class test {
 		int ap=r.apa;
 System.out.println(a);
 System.out.println("apa age is"+" " +ap);
+System.out.println(123);
 	}
 
 }
