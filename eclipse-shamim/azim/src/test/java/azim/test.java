@@ -7,7 +7,7 @@ public class test {
 		Rahim r=new Rahim();
 		r.papa("haque", 80);
 		int a=r.mother;
-		int ap=r.apa=40;
+		int ap=r.apa;
 System.out.println(a);
 System.out.println("apa age is"+" " +ap);
 	}

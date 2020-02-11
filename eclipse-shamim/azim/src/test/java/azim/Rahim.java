@@ -3,7 +3,7 @@ package azim;
 import org.junit.Test;
 
 public class Rahim implements Father {
-	int apa=50;
+	final int apa=50;
 	@Test
 	void pro() {
 		
