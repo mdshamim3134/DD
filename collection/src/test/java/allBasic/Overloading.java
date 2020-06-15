@@ -7,6 +7,7 @@ public class Overloading {
 		int a;
 		System.out.println("name is :"+name);
 		System.out.println("age is :"+age);
+		System.out.println("age is :"+email);
 
 	}
 
